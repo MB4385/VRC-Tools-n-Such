@@ -1,5 +1,5 @@
 {
-  "name": "com.monadoart.vrcstencildebug",
+  "name": "com.monadoart.vrc-stencil-debug",
   "displayName": "VRChat Stencil Debug Tool",
   "version": "0.0.1.3",
   "description": "Tool that visualizes stencil values for Unity's built-in Render Pipeline",
