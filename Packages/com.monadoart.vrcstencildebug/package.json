@@ -1,0 +1,19 @@
+{
+  "name": "com.monadoart.vrcstencildebug",
+  "displayName": "com.monadoart.vrcstencildebug",
+  "version": "0.0.1",
+  "description": "Describe this Package",
+  "dependencies": {},
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.base": "3.8.2"
+  },
+  "author": {
+    "name": "Monado_Art",
+    "email": "michabych8@gmail.com",
+    "url": "https://x.com/Monado_Art"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "E:\\Unity\\Github VPM Stuff\\VRCToolsnSuch\\Packages\\com.monadoart.vrcstencildebug"
+}

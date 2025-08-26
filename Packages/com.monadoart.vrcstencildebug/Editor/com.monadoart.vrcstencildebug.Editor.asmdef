@@ -1,0 +1,16 @@
+{
+  "name": "com.monadoart.vrcstencildebug.Editor",
+  "references": [
+    "VRC.SDKBase",
+    "VRC.SDKBase.Editor",
+    "com.monadoart.vrcstencildebug"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "defineConstraints": [],
+  "optionalUnityReferences": []
+}
