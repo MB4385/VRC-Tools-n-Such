@@ -1,7 +1,7 @@
 {
   "name": "VRChat Stencil Debug Tool",
   "displayName": "VRChat Stencil Debug Tool",
-  "version": "0.0.1.1",
+  "version": "0.0.1.2",
   "description": "Tool that visualizes stencil values for Unity's built-in Render Pipeline",
   "dependencies": {},
   "gitDependencies": {},
