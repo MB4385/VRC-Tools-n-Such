@@ -1,1 +1,1 @@
-# com.monadoart.vrcstencildebug by MB
+# VRChat Stencil Debug Tool by MB
